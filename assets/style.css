@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #BFD4F4;
+}
+
+.card{
+    border-radius: 25px;
+    text-align: center;
+    margin: 0;
+}
+
+div img{
+    border-radius: 10px;
+}
